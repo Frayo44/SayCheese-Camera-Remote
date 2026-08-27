@@ -2,7 +2,7 @@
   <img width="128" height="128" alt="SayCheese remote camera app icon" src="https://github.com/user-attachments/assets/14162f9d-ec35-48bb-8dd1-2ce877ba338c" />
 </p>
 
-# SayCheese – Remote Camera, Wireless Shutter & Live Viewfinder
+# SayCheese - Remote Camera, Wireless Shutter & Live Viewfinder
 
 **SayCheese** is a remote camera app that lets you use one phone as a **camera remote, wireless shutter, and live viewfinder** for another phone.
 
