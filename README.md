@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="128" height="128" alt="icon_full_screen" src="https://github.com/user-attachments/assets/14162f9d-ec35-48bb-8dd1-2ce877ba338c" />
+</p>
+
 # SayCheese Support & Community
 
 Welcome to the SayCheese support hub! This is the central place for getting help, reporting bugs, requesting features, and sharing feedback about SayCheese.
