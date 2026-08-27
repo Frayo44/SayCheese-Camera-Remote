@@ -1,20 +1,49 @@
 <p align="center">
-  <img width="128" height="128" alt="icon_full_screen" src="https://github.com/user-attachments/assets/14162f9d-ec35-48bb-8dd1-2ce877ba338c" />
+  <img width="128" height="128" alt="SayCheese remote camera app icon" src="https://github.com/user-attachments/assets/14162f9d-ec35-48bb-8dd1-2ce877ba338c" />
 </p>
 
-# SayCheese Support & Community
+# SayCheese – Remote Camera, Wireless Shutter & Live Viewfinder
 
-Welcome to the SayCheese support hub! This is the central place for getting help, reporting bugs, requesting features, and sharing feedback about SayCheese.
+**SayCheese** is a remote camera app that lets you use one phone as a **camera remote, wireless shutter, and live viewfinder** for another phone.
+
+Use an iPhone to remotely control another iPhone, or an Android phone to remotely control another Android phone. Preview the camera in real time, frame your shot, and take photos or videos from a distance.
+
+SayCheese also supports **Apple Watch and Garmin watches**, allowing you to control your phone camera directly from your wrist.
+
+🌐 [Learn more about SayCheese – Remote Camera & Wireless Shutter](https://saycheese.yfranko.com/)
 
 ## About SayCheese
 
-SayCheese turns two phones into a **remote camera and wireless shutter**.
+With SayCheese, one phone becomes the camera while the other acts as the **remote camera controller**.
 
-Use one phone as the camera and another as the remote, with a **real-time live viewfinder** so you can frame the shot before taking it. You can remotely control the shutter, zoom, focus, exposure, flash, timer, and more.
+See a **real-time live camera preview** on the remote device and control:
 
-SayCheese also supports **Apple Watch and Garmin watches**, letting you preview and control your phone's camera directly from your wrist.
+* Remote shutter
+* Live viewfinder
+* Zoom
+* Focus
+* Exposure and brightness
+* Flash
+* Timer
+* Photo and video capture
 
-No internet or account is required. Devices connect directly to each other, making SayCheese useful for group photos, solo travel, content creation, wildlife photography, photo booths, and more.
+Devices connect directly, so **no internet connection or account is required**.
+
+SayCheese is useful for:
+
+* Group photos
+* Selfies and solo travel photography
+* Taking photos from a distance
+* Content creation
+* Wildlife photography
+* Photo booths
+* Tripods and difficult camera placements
+
+## Apple Watch & Garmin Camera Remote
+
+SayCheese can also turn your **Apple Watch or Garmin watch into a camera remote**.
+
+Preview your phone's camera from your wrist and remotely trigger the camera without touching your phone.
 
 ## Getting Support
 
@@ -33,19 +62,19 @@ When reporting a bug, please include:
 
 ### Join the Community
 
-Have a question, idea, or want to share how you use SayCheese?
+Have a question, feature idea, or want to share how you use SayCheese?
 
 Join the SayCheese community on Reddit:
 
-[**r/SayCheeseCamera**](https://www.reddit.com/r/SayCheeseCamera/)
+[**r/SayCheeseCamera – Remote Camera Community**](https://www.reddit.com/r/SayCheeseCamera/)
 
-## Resources
+## Download SayCheese
 
-* 🌐 [SayCheese Website](https://saycheese.yfranko.com/)
-* 🍎 [Download on the App Store](https://apps.apple.com/us/app/saycheese-camera-remote/id6451002719)
-* 🤖 [Download on Google Play](https://play.google.com/store/apps/details?id=com.saychiz.remotecamera)
-* 💬 [SayCheese Community](https://www.reddit.com/r/SayCheeseCamera/)
+* 🌐 [SayCheese Remote Camera App - Official Website](https://saycheese.yfranko.com/)
+* 🍎 [SayCheese Camera Remote for iPhone - App Store](https://apps.apple.com/us/app/saycheese-camera-remote/id6451002719)
+* 🤖 [SayCheese Camera Remote for Android - Google Play](https://play.google.com/store/apps/details?id=com.saychiz.remotecamera)
+* 💬 [SayCheese Camera Remote Community on Reddit](https://www.reddit.com/r/SayCheeseCamera/)
 
 ---
 
-Thanks for using SayCheese!
+Thanks for using **SayCheese – Remote Camera**! 
